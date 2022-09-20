@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JoaquinEspeche/JoaquinEspeche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DrakesCraft Network Personal Proyect
 - 🌱 I’m currently learning JavaScript in CoderHouse
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
